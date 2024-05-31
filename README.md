@@ -9,3 +9,9 @@ This is a boilerplate project using Next.js 14 with the App Router, Zustand for 
 - **@tanstack/react-query**
 - **TypeScript**
 - **ESLint/Prettier**
+
+## How to install
+
+```bash
+npx create-next-boilerplate
+```
