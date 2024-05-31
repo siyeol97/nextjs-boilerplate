@@ -5,8 +5,13 @@
   flex-direction: column;
   width: 100vw;
   height: 100vh;
-  font-size: 32px;
-  gap: 10px;
+  font-size: 28px;
+  gap: 20px;
+}
+
+.stack {
+  display: flex;
+  white-space: pre;
 }
 
 .button {
