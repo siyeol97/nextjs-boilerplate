@@ -1,0 +1,31 @@
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  font-size: 32px;
+  gap: 10px;
+}
+
+.button {
+  gap: 20px;
+  display: flex;
+}
+
+.button button {
+  width: 80px;
+  height: 40px;
+  border-radius: 20px;
+  outline: none;
+  background-color: lightgray;
+  box-shadow: 1px 4px 0 rgb(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+.button button:active {
+  box-shadow: 1px 1px 0 rgb(0, 0, 0, 0.5);
+  position: relative;
+  top: 2px;
+}

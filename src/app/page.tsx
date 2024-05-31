@@ -1,10 +1,5 @@
-import styles from './page.module.css';
+import Intro from '@/components/Intro';
 
 export default function Home() {
-  return (
-    <main className={styles.main}>
-      <span>Hello World!</span>
-      <span>Next.js + Zustand + React-query boilerplate</span>
-    </main>
-  );
+  return <Intro />;
 }
