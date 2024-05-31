@@ -1,5 +1,5 @@
 {
-  "name": "@siyeol/nextjs-boilerplate",
+  "name": "@siyeol97/nextjs-boilerplate",
   "version": "0.1.0",
   "description": "Next.js 14 app router boilerplate with Zustand and React Query",
   "private": false,
