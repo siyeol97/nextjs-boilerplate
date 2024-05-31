@@ -1,7 +1,7 @@
 {
   "name": "nextjs-boilerplate",
   "version": "0.1.0",
-  "private": true,
+  "description": "Next.js 14 app router boilerplate with Zustand and React Query",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,7 +11,7 @@
   "dependencies": {
     "@tanstack/react-query": "^5.40.0",
     "@tanstack/react-query-devtools": "^5.40.0",
-    "next": "14.2.3",
+    "next": "latest",
     "react": "^18",
     "react-dom": "^18",
     "zustand": "^4.5.2"
